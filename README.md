@@ -1,4 +1,4 @@
-# Solar SystemS imulator
+# Solar System Simulator
 
 The purpose of this program is to simulate a galaxy. The galaxy will have a random number of solar systems.  
 Each solar system will have a random amount of planets in it. A planet can either be an inner or outer planet.  
